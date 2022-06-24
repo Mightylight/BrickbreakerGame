@@ -1,5 +1,5 @@
-# PinBall Game
-This is a PinBall game/simulation that i made for an assignment while studying CMGT at saxion.
+# BrickBreaker Game
+This is a BrickBreaker game/simulation that i made for an assignment while studying CMGT at saxion.
 This game was made using the Saxion GXPEngine.
 
 
