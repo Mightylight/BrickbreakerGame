@@ -1,0 +1,14 @@
+D:\Saxion_CMGT\1_3_Physics_Programming\Week5+\002_assignment5_starting_code\bin\Debug\GXPEngine.exe
+D:\Saxion_CMGT\1_3_Physics_Programming\Week5+\002_assignment5_starting_code\bin\Debug\GXPEngine.pdb
+D:\Saxion_CMGT\1_3_Physics_Programming\Week5+\002_assignment5_starting_code\obj\x86\Debug\GXPEngine.csproj.AssemblyReference.cache
+D:\Saxion_CMGT\1_3_Physics_Programming\Week5+\002_assignment5_starting_code\obj\x86\Debug\GXPEngine.csproj.SuggestedBindingRedirects.cache
+D:\Saxion_CMGT\1_3_Physics_Programming\Week5+\002_assignment5_starting_code\obj\x86\Debug\GXPEngine.csproj.CoreCompileInputs.cache
+D:\Saxion_CMGT\1_3_Physics_Programming\Week5+\002_assignment5_starting_code\obj\x86\Debug\GXPEngine.exe
+D:\Saxion_CMGT\1_3_Physics_Programming\Week5+\002_assignment5_starting_code\obj\x86\Debug\GXPEngine.pdb
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\obj\x86\Debug\GXPEngine.csproj.AssemblyReference.cache
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\obj\x86\Debug\GXPEngine.csproj.SuggestedBindingRedirects.cache
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\obj\x86\Debug\GXPEngine.csproj.CoreCompileInputs.cache
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\obj\x86\Debug\GXPEngine.exe
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\obj\x86\Debug\GXPEngine.pdb
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\bin\Debug\GXPEngine.exe
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\bin\Debug\GXPEngine.pdb

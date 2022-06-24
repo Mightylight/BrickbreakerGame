@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GXPEngine", "GXPEngine.csproj", "{B5126D4C-7FE0-4552-BC8C-E68D529C22B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{E16FCA83-A608-4D61-B99B-2D45AEE0E831}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5126D4C-7FE0-4552-BC8C-E68D529C22B2}.Debug|x86.ActiveCfg = Debug|x86
+		{B5126D4C-7FE0-4552-BC8C-E68D529C22B2}.Debug|x86.Build.0 = Debug|x86
+		{B5126D4C-7FE0-4552-BC8C-E68D529C22B2}.Release|x86.ActiveCfg = Release|x86
+		{B5126D4C-7FE0-4552-BC8C-E68D529C22B2}.Release|x86.Build.0 = Release|x86
+		{E16FCA83-A608-4D61-B99B-2D45AEE0E831}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E16FCA83-A608-4D61-B99B-2D45AEE0E831}.Debug|x86.Build.0 = Debug|Any CPU
+		{E16FCA83-A608-4D61-B99B-2D45AEE0E831}.Release|x86.ActiveCfg = Release|Any CPU
+		{E16FCA83-A608-4D61-B99B-2D45AEE0E831}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDF18955-E8B6-4F98-BC37-029841B1CBEE}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = GXPEngine.csproj
+	EndGlobalSection
+EndGlobal

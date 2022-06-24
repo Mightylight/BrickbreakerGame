@@ -1,0 +1,44 @@
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\bin\Debug\net48\NUnit3.TestAdapter.dll
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\bin\Debug\net48\NUnit3.TestAdapter.pdb
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\bin\Debug\net48\nunit.engine.dll
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\bin\Debug\net48\nunit.engine.api.dll
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\bin\Debug\net48\nunit.engine.core.dll
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\bin\Debug\net48\testcentric.engine.metadata.dll
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\bin\Debug\net48\Tests.dll
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\bin\Debug\net48\Tests.pdb
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\bin\Debug\net48\nunit.framework.dll
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\bin\Debug\net48\GXPEngine.exe
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\bin\Debug\net48\GXPEngine.pdb
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\bin\Debug\net48\GXPEngine.exe.config
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\obj\Debug\net48\Tests.csproj.AssemblyReference.cache
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\obj\Debug\net48\Tests.csproj.SuggestedBindingRedirects.cache
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\obj\Debug\net48\Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\obj\Debug\net48\Tests.AssemblyInfoInputs.cache
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\obj\Debug\net48\Tests.AssemblyInfo.cs
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\obj\Debug\net48\Tests.csproj.CoreCompileInputs.cache
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\obj\Debug\net48\Tests.csproj.CopyComplete
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\obj\Debug\net48\Tests.dll
+D:\Saxion_CMGT\1_3_Physics_Programming\Week1+\003_ball_vector_velocity\Tests\obj\Debug\net48\Tests.pdb
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\obj\Debug\net48\Tests.csproj.AssemblyReference.cache
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\obj\Debug\net48\Tests.csproj.SuggestedBindingRedirects.cache
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\obj\Debug\net48\Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\obj\Debug\net48\Tests.AssemblyInfoInputs.cache
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\obj\Debug\net48\Tests.AssemblyInfo.cs
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\obj\Debug\net48\Tests.csproj.CoreCompileInputs.cache
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\obj\Debug\net48\Tests.dll
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\obj\Debug\net48\Tests.pdb
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\bin\Debug\net48\NUnit3.TestAdapter.dll
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\bin\Debug\net48\NUnit3.TestAdapter.pdb
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\bin\Debug\net48\nunit.engine.dll
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\bin\Debug\net48\nunit.engine.api.dll
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\bin\Debug\net48\nunit.engine.core.dll
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\bin\Debug\net48\testcentric.engine.metadata.dll
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\bin\Debug\net48\Tests.dll
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\bin\Debug\net48\Tests.pdb
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\bin\Debug\net48\nunit.framework.dll
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\bin\Debug\net48\GXPEngine.exe
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\bin\Debug\net48\GXPEngine.pdb
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\bin\Debug\net48\GXPEngine.exe.config
+D:\Saxion_CMGT\1_3_Physics_Programming\Week6+\Final assignment\Tests\obj\Debug\net48\Tests.csproj.CopyComplete

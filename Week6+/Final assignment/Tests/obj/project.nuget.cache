@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "UQIbirHvg16Hq91yYxOMLKYk1ooWxTAXdUHws5sKBvIXDu0KcrU62nBjz72eDruaK1d+yo7DG9hK3rE4Z79kTw==",
+  "success": true,
+  "projectFilePath": "D:\\Saxion_CMGT\\BrickbreakerGame\\Week6+\\Final assignment\\Tests\\Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bejme\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
+    "C:\\Users\\bejme\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
+    "C:\\Users\\bejme\\.nuget\\packages\\microsoft.net.test.sdk\\16.11.0\\microsoft.net.test.sdk.16.11.0.nupkg.sha512",
+    "C:\\Users\\bejme\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\bejme\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
